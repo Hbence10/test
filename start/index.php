@@ -9,7 +9,7 @@
     <h1>HTML title</h1>
     
     <?php
-        echo "PHP Title"
+        echo "<h1>PHP Title</h1>"
     
     ?>
 </body>
