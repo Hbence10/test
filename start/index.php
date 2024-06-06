@@ -8,8 +8,9 @@
 <body>
     <h1>HTML title</h1>
     
+    <?php
+        echo "PHP Title"
+    
+    ?>
 </body>
 </html>
-<?php 
-        echo "asdad"
-    ?>
